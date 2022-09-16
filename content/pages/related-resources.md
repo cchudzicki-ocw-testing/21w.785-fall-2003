@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: Links directly related to 21W.785, an assortment of excellent websites,
+  examples of poor web design, links to useful technologies for student projects,
+  and a list of useful books.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
